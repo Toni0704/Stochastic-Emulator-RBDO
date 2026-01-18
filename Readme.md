@@ -179,14 +179,6 @@ This implementation is based on principles from:
 - Reliability-Based Design Optimization (RBDO) frameworks
 - Stochastic emulation techniques for uncertainty quantification
 
-## Authors
-
-Developed as part of a research project on efficient stochastic simulation and optimization methods for engineering design under uncertainty.
-
-## License
-
-[Specify your license here]
-
 ## Acknowledgments
 
-Special thanks to the research community for developing the theoretical foundations of GLaM and RBDO methodologies.
+Special thanks to Prof. Souvik Chakraborty (Dept. of Applied Mechanics, IIT Delhi), and the research community for developing the theoretical foundations of GLaM and RBDO methodologies.
